@@ -60,3 +60,23 @@ Will follow this edit with one additional commit message reflecting details.
 timeout:  201702121511
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
+This update followed the "commit" where I was reviewing it all on github.
+
+I noted two typos:
+
+One in the parent directory index.html file.  Second in the commit message.
+
+I have elected to skip the second since I have already made at least one commit
+since the error was made and I do not wish to "play" that hard at this time.
+
+The second typo error I can correct now in the index.html file and make a new
+commit after the change.  I will be making two commits here and now.  One for
+this README.md file edit and one for the index.html file edit.  What will
+follow will like be an additional update to this file and a follow up commit.
+
+This for a total of three additional commits made to today's total count.
+
+timeout:  201702121529
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
