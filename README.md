@@ -34,3 +34,29 @@ commands practice...
 timeout:  201702121413
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
+This update was for today's multiple actions that I failed to break down into 
+individual "commit" messages.  There was so much that I did that I forgot to 
+track it all as I went.
+
+Created this README.md file ( edited several times ).  It was created in part
+by github.  I then cloned this repository to my local directory.
+
+Created an index.html file for the parent directory as an index to be
+updated daily with each new day's directory information and links to the index
+of that day.
+
+Created a subdirectory for the day using the following convention:
+year,month,day as in this example:  20170212.
+
+Created an index file within that subdirectory and populated it with
+some details and a link back to the project's parent directory's index.html
+file.
+
+Created a single commit message and then updated this file.
+
+Will follow this edit with one additional commit message reflecting details.
+
+timeout:  201702121511
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
