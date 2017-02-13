@@ -86,3 +86,20 @@ Edited typo in index.html file and commited with message 'I can recall...'.
 timeout:  201702121535
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
+This morning I am hoping to correct some major issues I created in the process 
+of trying to create this project.  One issue is that each entry into the README
+.md file will not actually appear here in the MASTER's README.md file unless I 
+change branches to make the entry.
+
+Additionally, items that were done on yesterday's branch may not be in today's
+because I want the branching to appear as seperate branches off of MASTER.  I 
+am doing this for a visual effect thing with the Git GUI I am using it is called
+GitKraken.
+
+There are some things that I would like to have in the MASTER branch but every-
+thing else should be in it's own branch on the given day.
+
+So here's to today's attempt...timein 201702131124
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
