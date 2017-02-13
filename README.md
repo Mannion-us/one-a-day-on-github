@@ -134,3 +134,23 @@ Attempt to use 'git checkout' failed...  Attempting second option using 'git
 show' command.
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
+ALL ATTEMPS to copy files have FAILED... copying files between branches is very
+very difficult.  I have one additional attempt that I found at the follow link:
+
+http://stackoverflow.com/questions/17416691/how-can-i-copy-files-from-a-branch-
+to-another-using-git
+
+I am not sure that I have not already DELETED or REMOVED the files and folders
+I am looking to copy from branch 20170212 to 20170213 or for that matter any of
+the files from any of the three branches...master included.  I am going to make
+one additional attempt at this point to copy files between branches from the
+/Users/administrator/git/one-a-day-on-github/20170212/WIP-for-today folder on
+branch 20170212 to the:
+/Users/administrator/git/one-a-day-on-github/20170213/WIP-for-today folder on
+branch 20170213.
+
+If this fails I will have to go back to asking my mentor to show me exactly 
+how to do what I want to with this exercise.
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
