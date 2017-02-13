@@ -129,3 +129,8 @@ on the 'WIP-for-today' folder from the 20170212 branch.
 Let's see how this works...
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
+Attempt to use 'git checkout' failed...  Attempting second option using 'git
+show' command.
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
