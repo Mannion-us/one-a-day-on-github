@@ -86,3 +86,9 @@ Edited typo in index.html file and commited with message 'I can recall...'.
 timeout:  201702121535
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
+Edited this file.  Added WIP folder and sub folders with files.  Updated all
+index.html files to reflect correct paths in the anchors.  Git Add . and then
+git commit -m "adding message to reflect same..."
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
