@@ -103,3 +103,13 @@ thing else should be in it's own branch on the given day.
 So here's to today's attempt...timein 201702131124
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
+I broke for lunch and am returning now at 201702131306 to begin using git stash
+command line in order to copy files from yesterday's WIP folder to today's WIP.
+
+This will be my first attempt at using 'git stash' and 'git stash apply'.  I 
+had to change branches from 20170213 to master to update this README.md file 
+with these details before making an attempt to 'stash' from yesterday's branch
+to today's branch.  Let's see how this works.
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
