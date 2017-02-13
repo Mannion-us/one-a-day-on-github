@@ -113,3 +113,19 @@ with these details before making an attempt to 'stash' from yesterday's branch
 to today's branch.  Let's see how this works.
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
+Attempt to 'git stash' failed as I had not made any changes to the files or the
+folders I was looking to 'stash' and 'stash apply' in the 20170213 branch.
+
+I am there for taking another approach to moving the files to today's branch:
+
+https://xliska.wordpress.com/2010/09/22/copy-files-between-git-branches/
+
+This link indicates that I can 'copy' files and folders from one branch to
+another using one of two commands.  I am going to attempt the second of the two
+commands first by changing back to 20170213 branch and doing a 'git checkout'
+on the 'WIP-for-today' folder from the 20170212 branch.
+
+Let's see how this works...
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
