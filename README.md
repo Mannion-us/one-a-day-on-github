@@ -154,3 +154,14 @@ If this fails I will have to go back to asking my mentor to show me exactly
 how to do what I want to with this exercise.
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
+timein:  201702141600
+
+Had an interesting and productive call with my Bloc.io mentor this afternoon.
+
+I am going to do my one-a-day-on-github now and see if I can do today's without
+many errors.
+
+So here goes...editing README.md and master's index.html files now.
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
