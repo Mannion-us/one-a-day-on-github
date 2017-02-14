@@ -165,3 +165,14 @@ many errors.
 So here goes...editing README.md and master's index.html files now.
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
+So I was successful at creating both the 20170214 branch as well as the 
+20170214 subdirectory with it's 20170214-index.html file...and all done in 
+less that 30 minutes.
+
+So I am here just updating this README.md file before I finish up for a short
+break for diner.
+
+timeout:  201702141701
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
