@@ -87,10 +87,18 @@ timeout:  201702121535
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
 
+Edited this file.  Added WIP folder and sub folders with files.  Updated all
+index.html files to reflect correct paths in the anchors.  Git Add . and then
+git commit -m "adding message to reflect same..."
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
 This morning I am hoping to correct some major issues I created in the process 
 of trying to create this project.  One issue is that each entry into the README
 .md file will not actually appear here in the MASTER's README.md file unless I 
 change branches to make the entry.
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
 
 Additionally, items that were done on yesterday's branch may not be in today's
 because I want the branching to appear as seperate branches off of MASTER.  I 
