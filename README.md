@@ -184,3 +184,30 @@ break for diner.
 timeout:  201702141701
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
+timein: 201702141958
+
+Have been working on resolving merge conflicts between 20170212 & master, as
+well as 20170213 & master.  Additionally, due to the fact that 20170214 was 
+completed but still the 20170214-index.html failed to be found once back on
+master and selecting 20170214-index.html's link on the Project's index.html
+page.
+
+The link would only produce a valid file if the branchs were all merged with
+master.  The were, after resolving the master's README.md file able to be 
+merged and thus all links produced effective connectivity to the files.
+
+This turned out to be rather trickier than I expected but I now understand the
+relationship between the links in one branch and access to files from an 
+entirely different branch which has not been merged.  Once merged the links
+produce effective connectivity.
+
+Call it my exploration of Git branch idiosyncrasies!!!  I understand not being
+able to access a file that is on another branch until all branchs are merged
+as one.
+
+Lesson learned...
+
+timeout:  201702142008
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
