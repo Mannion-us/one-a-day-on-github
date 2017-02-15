@@ -211,3 +211,17 @@ Lesson learned...
 timeout:  201702142008
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
+timein: 201702142042
+
+Discovered that local branch 20170214 had not yet been pushed up to github
+despite having been merged with master and master having been pushed up to 
+github.
+
+Switched to branch 20170214 and performed git push origin 20170214 and then
+proceeded to return to master branch where I am currently editing this
+README.md file to reflect this update.
+
+timeout:  201702142045
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
