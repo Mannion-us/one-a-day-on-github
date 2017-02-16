@@ -225,3 +225,16 @@ README.md file to reflect this update.
 timeout:  201702142045
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
+timein:  201702152019
+
+Rough day today so things are going to be short and sweet.  Trying to be as
+fast and as accurate as I can at such a late hour.
+
+Edit both README.md and index.html in the master branch.  Then checkout today's
+branch before I create the subdirectory and it's 20170215-index.html file.
+
+Then once they are complete I am going to change back to master re-edit this
+file and then merge and push to github and call it a night.
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
