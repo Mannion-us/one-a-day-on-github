@@ -238,3 +238,14 @@ Then once they are complete I am going to change back to master re-edit this
 file and then merge and push to github and call it a night.
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
+This evening's branch creation was very very successful and has me feeling very
+confident about having learned and resolved branch verses master checkouts and
+merges.  I now no longer am confused by the 'fatal error' message that comes 
+from checking out master from within a directory that does not exist in master.
+
+Good lessons learned over the last few days...more good things to come...for now
+
+timeout:  201702152054
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
