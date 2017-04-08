@@ -257,3 +257,17 @@ inspiration.  Created directory for today's date and upated index.html on the
 mater branch before creating a new branch to work on today's project.
 
 ####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
+
+timeout:  201704081919
+
+This evening's success comes from having seen many of the errors in the console
+log previously and being able to quickly "fix" them such that I was successful 
+at starting my TeamTreeHouse Angular project under today's folder.  There is 
+still much work to be done on this project but for now I am wrapping up my 
+day's activities with the great success of getting both my one-a-day posted 
+and my learning from TeamTreeHouse completed as well.  I have more of this 
+course to complete but I will be continuing that tomorrow and wish to see just 
+how well I am able to establish and make the links on my one-a-day work with 
+this split project and postings.
+
+####-****-####-****-####-****-####-****-####-****-####-****-####-****-####-****
